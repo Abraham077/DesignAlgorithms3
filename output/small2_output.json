@@ -1,0 +1,48 @@
+{
+  "vertices" : 5,
+  "edges" : 7,
+  "Prim" : {
+    "totalCost" : 9.0,
+    "executionTimeMs" : 0,
+    "operationCount" : 7,
+    "mstEdges" : [ {
+      "u" : 0,
+      "v" : 2,
+      "weight" : 1.0
+    }, {
+      "u" : 2,
+      "v" : 1,
+      "weight" : 2.0
+    }, {
+      "u" : 1,
+      "v" : 3,
+      "weight" : 4.0
+    }, {
+      "u" : 3,
+      "v" : 4,
+      "weight" : 2.0
+    } ]
+  },
+  "Kruskal" : {
+    "totalCost" : 9.0,
+    "executionTimeMs" : 0,
+    "operationCount" : 48,
+    "mstEdges" : [ {
+      "u" : 0,
+      "v" : 2,
+      "weight" : 1.0
+    }, {
+      "u" : 1,
+      "v" : 2,
+      "weight" : 2.0
+    }, {
+      "u" : 3,
+      "v" : 4,
+      "weight" : 2.0
+    }, {
+      "u" : 1,
+      "v" : 3,
+      "weight" : 4.0
+    } ]
+  }
+}
