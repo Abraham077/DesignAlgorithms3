@@ -1,0 +1,10 @@
+{
+  "vertices": 4,
+  "edges": [
+    {"u": 0, "v": 1, "weight": 10},
+    {"u": 0, "v": 2, "weight": 6},
+    {"u": 0, "v": 3, "weight": 5},
+    {"u": 1, "v": 3, "weight": 15},
+    {"u": 2, "v": 3, "weight": 4}
+  ]
+}
